@@ -1,0 +1,64 @@
+.x tr {
+   text-align: right;
+   margin-right: 10px;
+   width: 100px;
+   font-weight: bold;
+   color: black;
+   font-size: 26px;
+}
+
+.Text tr {
+   width: 300px;
+   height: 400px;
+}
+
+
+h1 {
+   text-align: center;
+   color: darkblue;
+   
+}
+
+h2 {
+   text-align: center;
+   color : black;
+   margin-top : 50px;
+}
+/* Style a specific button */
+#submit-button {
+   background-color: #94c05e;
+   color: #fff;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 5px;
+   margin-top: 20px;
+}
+
+   /* Style button on hover */
+   #submit-button:hover {
+       background-color: #0056b3;
+   }
+
+/* Style select box */
+select {
+   color: #d93535;
+   padding: 10px;
+   border: 1px solid #0d0c0c;
+   border-radius: 5px;
+   background-color: #739bcd;
+   background-position: right center;
+   background-repeat: no-repeat;
+}
+
+.input-set input[type = "datetime-local"] {
+   margin-top: 20px;
+}
+
+table {
+   color: black;
+   background-color: white;
+   border: 3px;
+   border-collapse: collapse;
+   margin: auto;
+   padding: 9px;
+}
